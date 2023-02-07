@@ -4,7 +4,7 @@
       "autore" : "ciao",
       "testo" : "",
       "like" : 0,
-      "coomenti" : ["xxx"]
+      "commenti" : ["xxx"]
     },
     ],
 }
