@@ -6,6 +6,12 @@
       "testo" : "",
       "like" : 0,
       "commenti" : ["xxx"]
+    },
+    {
+      "autore" : "ciao",
+      "testo" : "",
+      "like" : 0,
+      "commenti" : ["xxx"]
     }
     ]
 }
